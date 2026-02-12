@@ -98,5 +98,3 @@ Once the app is running, use the **Chaos Panel** in the Blazor dashboard to test
 > "Look, I found the bug. It was exactly where I said it would be. I’ve staged a fix, but honestly, if you keep writing code like this, I’m going on strike. Click 'Yes' if you want me to save your job again."
 
 ---
-
-**Would you like me to help you generate a `LICENSE` file or a `.gitignore` specifically tailored for .NET and ML.NET projects?**
